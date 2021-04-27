@@ -5,7 +5,7 @@ package Fructe;
  */
 public class TaraProducere {
 
-    private String denumire;
+    private String denumire; //denumire tara de producere
     private String denumireCompanie;
 
 
